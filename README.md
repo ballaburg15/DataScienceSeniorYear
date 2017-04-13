@@ -1,2 +1,2 @@
 # DataScienceSeniorYear
-New but hungry 
+NewButHungry
